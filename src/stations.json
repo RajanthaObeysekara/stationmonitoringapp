@@ -1,0 +1,64 @@
+{
+    "waterlevel": [
+        {
+            "name": "colombo-test1",
+            "location": {
+                "logitude": 11.1,
+                "latitude": 10.1
+            },
+            "vendor": "leecom"
+        },{
+            "name": "colombo-test2",
+            "location": {
+                "logitude": 11.1,
+                "latitude": 10.1
+            },
+            "vendor": "leecom"
+        },{
+            "name": "colombo-test3",
+            "location": {
+                "logitude": 11.1,
+                "latitude": 10.1
+            },
+            "vendor": "leecom"
+        },{
+            "name": "colombo-test4",
+            "location": {
+                "logitude": 11.1,
+                "latitude": 10.1
+            },
+            "vendor": "leecom"
+        }
+    ],
+    "weatherstations": [
+        {
+            "name": "colombo-test1",
+            "location": {
+                "logitude": 11.1,
+                "latitude": 10.1
+            },
+            "vendor": "leecom"
+        },{
+            "name": "colombo-test2",
+            "location": {
+                "logitude": 11.1,
+                "latitude": 10.1
+            },
+            "vendor": "leecom"
+        },{
+            "name": "colombo-test3",
+            "location": {
+                "logitude": 11.1,
+                "latitude": 10.1
+            },
+            "vendor": "leecom"
+        },{
+            "name": "colombo-test4",
+            "location": {
+                "logitude": 11.1,
+                "latitude": 10.1
+            },
+            "vendor": "leecom"
+        }
+    ]
+}
